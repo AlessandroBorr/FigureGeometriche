@@ -2,4 +2,4 @@
 
 File read me di esempio
 
-**** copia in locale ****
+****copia su github****
